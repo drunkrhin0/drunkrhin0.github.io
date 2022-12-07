@@ -3,7 +3,7 @@ title: A Graduate’s Thoughts - How to Get Started in Information Security and 
 date: 2020-02-03 +0800
 categories: [career. blog]
 tags: [career,blog]
-author: Rami Tawil
+author: Rami
 ---
 
 A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security

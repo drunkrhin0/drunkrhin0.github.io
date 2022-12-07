@@ -3,7 +3,7 @@ title: Building an Active Directory Lab — Part 1A - AutomatedLab
 date: 2019-12-07 +0800
 categories: [blog, windows]
 tags: [windows, active directory, virtualisation, powershell, automatedlab, hyper-v, homelab]
-author: Rami Tawil
+author: Rami
 ---
 
 # Building an Active Directory Lab — Part 1A: AutomatedLab
