@@ -21,13 +21,13 @@ timezone: Australia/Perth
 
 title: drunkrhin0's blog                          # the main title
 
-tagline: Cybersecurity professional who sometimes writes stuff   # it will display as the sub-title
+tagline: drunkrhin0/Rami Tawil's cybersecurity blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  drunkrhin0/Rami Tawil's blog relating to cybersecurity.
+  drunkrhin0/Rami Tawil's cybersecurity blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://drunkrhin0.blog'
+url: 'https://drunkrhin0.github.io'
 
 github:
   username: drunkrhin0             # change to your github username
