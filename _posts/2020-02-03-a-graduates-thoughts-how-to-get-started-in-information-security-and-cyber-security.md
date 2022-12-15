@@ -6,8 +6,6 @@ tags: [blog, career]
 toc: true
 ---
 
-A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security
-
 Information security (Infosec) and cyber security is currently a hot topic. I’ve had countless people ask me how to get started, what certificates they should get, what they should do, how much they spend and so on.
 
 The aim of this article is to provide you with a number of tips to equip yourself to get started in the information security industry.
@@ -253,3 +251,5 @@ Key qualities in a mentor include:
 * They help you set Specific Measurable Attainable Realistic Timely (SMART) goals.
 * They help you sharpen your skills.
 * They offer you guidance and insight from experience to prevent you from making mistakes they once did.
+
+📝 **This blog post was originally published on:** [Medium](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f)\|[LinkedIn](https://www.linkedin.com/pulse/graduates-thoughts-how-get-started-information-security-rami-tawil/)
