@@ -6,6 +6,10 @@ tags: [twitter-thread, content, resource-sharing]
 toc: true
 ---
 
+📝 **This blog post was originally published on:** [Medium](https://medium.com/heck-the-packet/cybersecurity-tech-content-i-discovered-in-2020-96084a9048eb)
+
+---
+
 I wrote [this tweet](https://twitter.com/drunkrhin0/status/1344130685817085959) about my favourite cybersecurity and tech content I discovered in 2020. I’ve added a bit more content since I’m not limited by the Twitter character limit. These are in no particular order.
 
 ![](https://miro.medium.com/max/700/1*q1MNh9EDICGXeyiBA8oBXw.png)
@@ -177,5 +181,3 @@ Microsoft needs no introduction. The Microsoft Security community channel provid
 -   Twitter: [https://www.twitter.com/IntuneTraining](https://www.twitter.com/IntuneTraining)
 
 The Intune Training channel really filled in the gaps with Azure/Intune knowledge where the Microsoft Docs did not.
-
-📝 **This blog post was originally published on:** [Medium](https://medium.com/heck-the-packet/cybersecurity-tech-content-i-discovered-in-2020-96084a9048eb)

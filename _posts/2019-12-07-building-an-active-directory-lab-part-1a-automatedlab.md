@@ -6,6 +6,10 @@ tags: [windows, active directory, virtualisation, powershell, automatedlab, hype
 toc: true
 ---
 
+📝 **This blog post was originally published on:** [Medium](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)\|[LinkedIn](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)
+
+---
+
 So you’d like to build an Active Directory (AD) lab and have no idea how to get started. I learnt how to build labs manually however this was quite time consuming and didn’t allow much flexibility (which I’ll cover in a future article).
 
 To setup an AD lab today we’ll be leveraging [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab). AutomatedLab is a provisioning solution that lets you deploy simple and complex labs on HyperV and Azure with simple PowerShell scripts.
@@ -111,5 +115,3 @@ _Lab Removal_
 If you have any feedback I’d love to hear it you can reach out to me on [Twitter](https://twitter.com/drunkrhin0).
 
 My views are my own and do not reflect my employers.
-
-📝 **This blog post was originally published on:** [Medium](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)\|[LinkedIn](https://www.linkedin.com/pulse/building-active-directory-lab-part-1a-automatedlab-rami-tawil/)
