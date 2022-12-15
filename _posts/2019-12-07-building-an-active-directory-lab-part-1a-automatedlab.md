@@ -1,12 +1,14 @@
 ---
 title: Building an Active Directory Lab — Part 1A - AutomatedLab
 date: 2019-12-07 +0800
-categories: [blog, windows]
-tags: [windows, active directory, virtualisation, powershell, automatedlab, hyper-v, homelab]
-author: Rami
+categories: [Blog, Active Directory]
+tags: [windows, active directory, virtualisation, powershell, automatedlab, hyper-v, homelab, microsoft]
+toc: true
 ---
 
-# Building an Active Directory Lab — Part 1A: AutomatedLab
+📝 **This blog post was originally published on:** [Medium](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)\|[LinkedIn](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)
+
+---
 
 So you’d like to build an Active Directory (AD) lab and have no idea how to get started. I learnt how to build labs manually however this was quite time consuming and didn’t allow much flexibility (which I’ll cover in a future article).
 
@@ -42,9 +44,10 @@ AutomatedLab requires you to have some ISOs it can use. It initially creates a b
 Ok we’re finally ready to install AutomatedLab.
 
 Open an escalated PowerShell Window and execute the following commands:
-
+```powershell
 Install-Module -Name AutomatedLab -AllowClobber  
 New-LabSourcesFolder
+```
 
 Great now AutomatedLab is installed!
 
@@ -52,15 +55,16 @@ Great now AutomatedLab is installed!
 
 ## Place the ISO Images
 
-Navigate to `D:\Labsources\ISOs` and place your ISO files in it.
+Navigate to `D:\Labsources\ISOs`{: .filepath} and place your ISO files in it.
 
 Next open an elevated PowerShell Window and type in the following command (Ensure the filepath points to the right location for the LabSources folder)
 
-Get-LabAvailableOperatingSystem -Path D:\LabSources
+`Get-LabAvailableOperatingSystem -Path D:\LabSources`
 
 This should return a list of all operating system images found in the ISOs folder.
 
-![](https://miro.medium.com/max/700/1*zfdzi3P3VoksGXbvE8IfPA.png)
+![Returned ISO Images](https://miro.medium.com/max/700/1*zfdzi3P3VoksGXbvE8IfPA.png)
+_Returned ISO images_
 
 # Install your first AD lab
 
@@ -78,12 +82,12 @@ Show-LabDeploymentSummary
 
 Once you execute the script AutomatedLab will do the following:
 
-1.  Download Sysinternals tools and place them into the LabSources folder.
-2.  It will look for an ISO file that contains the specificed OS name. If it can’t find the ISO it will stop at this point.
-3.  AL will create a virtual switch
-4.  Then it will create base images for each operating system
-5.  It will create a Windows Server 2016 root domain controller with the domain name contoso.com
-6.  It will also create a Windows 10 Pro client machine connected to the contoso.com domain
+2.  Download Sysinternals tools and place them into the LabSources folder.
+3.  It will look for an ISO file that contains the specified OS name. If it can’t find the ISO it will stop at this point.
+4.  AL will create a virtual switch
+5.  Then it will create base images for each operating system
+6.  It will create a Windows Server 2016 root domain controller with the domain name `contoso.com`
+7.  It will also create a Windows 10 Pro client machine connected to the `contoso.com` domain
 
 Grab a coffee!
 
@@ -103,12 +107,11 @@ Remove-Lab
 
 It should look similar to this:
 
-![](https://miro.medium.com/max/700/1*6bvGhKL78_TQ99aoz2DDlQ.png)
+![Removing Lab](https://miro.medium.com/max/700/1*6bvGhKL78_TQ99aoz2DDlQ.png)
+_Lab Removal_
 
 # Concluding Remarks
 
-The next article will go through how to build an AD Lab on [Proxmox VE](https://www.proxmox.com/en/) in a more manual fashion including additional VMs.
-
 If you have any feedback I’d love to hear it you can reach out to me on [Twitter](https://twitter.com/drunkrhin0).
 
-My views are my own and do not reflect my employers
+My views are my own and do not reflect my employers.

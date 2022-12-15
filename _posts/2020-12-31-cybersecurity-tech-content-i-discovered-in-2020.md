@@ -1,12 +1,14 @@
 ---
-title: Cybersecurity & Tech Content I Discovered in 2020
+title: Cybersecurity and Tech Content I Discovered in 2020
 date: 2020-12-31 +0800
-categories: [twitter-thread. resource-sharing]
-tags: [twitter thread,content, resource-sharing]
+categories: [twitter-thread, resource-sharing]
+tags: [twitter-thread, content, resource-sharing]
+toc: true
 ---
 
+📝 **This blog post was originally published on:** [Medium](https://medium.com/heck-the-packet/cybersecurity-tech-content-i-discovered-in-2020-96084a9048eb)
 
-# Cybersecurity & Tech Content I Discovered in 2020
+---
 
 I wrote [this tweet](https://twitter.com/drunkrhin0/status/1344130685817085959) about my favourite cybersecurity and tech content I discovered in 2020. I’ve added a bit more content since I’m not limited by the Twitter character limit. These are in no particular order.
 
@@ -64,7 +66,7 @@ Michael otherwise known as Codingo broke into content creation this year and is 
     [Luke Stephens (@hakluke)](https://medium.com/u/163b7710a773?source=post_page-----96084a9048eb--------------------------------)
     
 
-Luke broke into content creation this year (on YouTube). He provides some fantastic life advice in the cybersecurity/bug bounty space and has some great interviews on his YouTube channel. You may also recognise him as the author of h[akrawler](https://github.com/hakluke/hakrawler).
+Luke broke into content creation this year (on YouTube). He provides some fantastic life advice in the cybersecurity/bug bounty space and has some great interviews on his YouTube channel. You may also recognise him as the author of [hakrawler](https://github.com/hakluke/hakrawler).
 
 # Shubs (infosec_au)
 

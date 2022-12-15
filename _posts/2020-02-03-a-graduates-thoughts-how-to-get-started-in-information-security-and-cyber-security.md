@@ -1,9 +1,9 @@
 ---
 title: A Graduate’s Thoughts - How to Get Started in Information Security and Cyber Security
 date: 2020-02-03 +0800
-categories: [career. blog]
-tags: [career,blog]
-author: Rami
+categories: [Blog, career]
+tags: [blog, career]
+toc: true
 ---
 
 A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security
@@ -12,7 +12,8 @@ Information security (Infosec) and cyber security is currently a hot topic. I’
 
 The aim of this article is to provide you with a number of tips to equip yourself to get started in the information security industry.
 
-Notes:
+> Some quick notes
+{: .prompt-info}
 
 * This is a long article. You can skim the headline points if you want but this has taken me hours of writing and years of learning I’d recommend taking the 10–15 minutes to read it.
 * I’ll be referring to infosec since cyber security is a component of it.
@@ -26,7 +27,8 @@ Notes:
 
 # 01 — You REALLY Have to Want It
 
-### <center>Show your passion! Show how much you want it!</center>
+>Show your passion! Show how much you want it!
+{: .prompt-tip}
 
 
 Infosec is a competitive field. Completing a degree/certificate or just knowing a thing or two isn’t enough. You live and breathe infosec. It should light a fire in you, you don’t want to shut up about it and drive your friends and family mad about it.
@@ -45,20 +47,21 @@ You don’t need a rack server at home with 2TB of RAM, or the perfect laptop, o
 * **Don’t have the finances?** There’s a huge amount of free resources available now. I’ve listed a few below later in the article.
 * **Don’t have the time?** Make it a priority and build a micro-habit of infosec, even if it’s reading 1 article a day.
 
-### There is no one way to skin a cat and no one way to begin. [Faith](https://twitter.com/farazsth98) summarises this well below.
+> There is no one way to skin a cat and no one way to begin.
+{: .prompt-tip} 
 
-
+[Faith](https://twitter.com/farazsth98) summarises this well below.
 
 <center>
 
-[![Tweet describing there is no perfect strategy](/assets/img/faith-perfect-strategy.png)](https://twitter.com/farazsth98/status/1220902766983299072?s=20&t=AhIPJWN465x6rU_JTP7Q0g)
+[![Tweet describing there is no perfect strategy](/assets/img/2020-02-03/faith-perfect-strategy.png)](https://twitter.com/farazsth98/status/1220902766983299072?s=20&t=AhIPJWN465x6rU_JTP7Q0g)
 
 </center>
-
 
 # 03 — Be the Dumbest Person in the Room
 
 Always strive to be the dumbest person in the room. When I read Ego is the Enemy I heard a quote that changed the way I think.
+{: .prompt-tip} 
 
 > ### <center>“Do you know the secret of the true scholar? In every man there is something wherein I may learn of him; and in that I am his pupil.” — Ralph Waldo Emerson </center>
 
@@ -104,7 +107,7 @@ In the past, it was hard to come by information regarding infosec. Information w
 Listed below are a few of my favourite content creators/courses:
 
 * [PentesterLab](https://pentesterlab.com/) (PentesterLab also publishes some great articles regularly)
-* [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy/) ~~(His Udemy course is fantastic)~~ Now [TCM Security](https://tcm-sec.com/)
+* [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy/) ~~(His Udemy course is fantastic)~~ (Now [TCM Security](https://tcm-sec.com/))
 * [HackerSploit](https://www.youtube.com/@HackerSploit/)
 
 This list is not comprehensive whatsoever. I’ll create a separate list later for those interested.
@@ -135,7 +138,7 @@ Please don’t be that person that just says, “Yeah I want to work in infosec�
 
 I heard my friend [Ricki](https://twitter.com/CyberSecRicki) once give a valuable piece of advice.
 
-### <center> Don’t just think about the industry. Think about the job you want and the skills you need to get there.</center>
+### <center> "Don’t just think about the industry. Think about the job you want and the skills you need to get there."</center>
 
 # 08—Build a Network, Make Friends and Use Social Media Effectively
 
@@ -149,7 +152,7 @@ Frankly, I had no idea what I was doing. All I knew is this was what everyone di
 
 You’re probably saying in your head right now “Well how do I get started?”
 
-1. Go to conferences and meetups. If you’re in the APAC region you can check out APAC Conferences and APAC Meetups.
+1. Go to conferences and meetups. If you’re in the APAC region you can check out [APAC Meetups](https://github.com/Infosec-Community/APAC-Conferences).
 2. Make a Twitter and LinkedIn account and actively engage with the community.
 
 You’ve met all these fantastic people at meetups/conferences. You got along with a few people who share mutual interests. Don’t lose that connection!
@@ -168,7 +171,7 @@ Social media is a great way to be informed of current events, find new tools and
 <br>
 <center>
 
-[![Tweet: Good jobs](/assets/img/l0ss-good-jobs.png)](https://twitter.com/mikeloss/status/1220969816598568960?s=20&t=OhS035J7Thc_DCjFNjOfOA)
+[![Tweet: Good jobs](/assets/img/2020-02-03/l0ss-good-jobs.png)](https://twitter.com/mikeloss/status/1220969816598568960?s=20&t=OhS035J7Thc_DCjFNjOfOA)
 
 </center>
 
@@ -179,26 +182,26 @@ The best jobs are never advertised. These are usually offered to connections or 
 
 Bad resumes are a pet peeve of mine. Instead of writing a paragraph I’m going to list a bunch of Do’s and Don’ts
 
-**Do**
+**✅ Do** 
 
 * Pick a nice template (they’re not hard to find).
 * Include volunteer experience on your resume.
-* Include your skillset.
+* Include your skill-set.
 * Include a cover letter (Even if they say it is optional, cover letters are a must!)
 * Inform your references you’re applying for a job.
 * Focus on what you have to offer the organisation.
 * Grab the readers attention immediately.
 * Personalise your cover letter — try to be original and use personal examples, not just buzzwords.
 
-**Don’t**
+**❌ Don’t**
 
 * Include every job you ever had. (Working at McDonalds at 16 isn’t relevant to information security)
 * Provide a poorly formatted 6-page resume.
-* Use the same cover letter for every job (They know… and they won’t read it)
-* Don’t include a photo (They’re going to look at your LinkedIn profile anyway)
-* Don’t include your full address (Suburb/general vicinity is fine)
+* Use the same cover letter for every job (They know… and they won’t read it).
+* Don’t include a photo (They’re going to look at your LinkedIn profile anyway).
+* Don’t include your full address (Suburb/general vicinity is fine).
 * Include personal information such as your marital status, Birthday, passport number etc. (Especially in the security industry).
-* Assume you will get the job
+* Assume you will get the job.
 
 # 10— Contribute to the Community
 
@@ -211,9 +214,9 @@ This is a fantastic way to get your foot in the door and do some good at the sam
 
 ![Image: Imposter syndrome vs reality](https://miro.medium.com/max/1400/0*UXTtpKi3o0WGD5aA.webp)
 
-<center>Credit: Austin Center for Design</center>
+<center>_Credit: Austin Center for Design_</center>
 
-* **Contribute to forums:** If you can provide your expertise in forums like Slack channels, discords and websites like Reddit please do. I often receive a large portion of my daily news/things to try from forums.
+* **Contribute to community spaces:** If you can provide your expertise in forums like Slack channels, discords and websites like Reddit please do. I often receive a large portion of my daily news/things to try from forums.
 * **Pay it forward:** You may think you don’t know much but if there’s something you can help someone with offer your advice/expertise!
 
 # 11 — Soft Skills Are Even More Important Than Technical Skills
@@ -246,7 +249,7 @@ A mentor doesn’t always need to be asked but will happily talk to you, guide y
 Key qualities in a mentor include:
 
 * They inspire you!
-* They provide clarity and maintain accountability
-* They help you set Specific Measurable Attainable Realistic Timely (SMART) goals
-* They help you sharpen your skills
-* They offer you guidance and insight from experience to prevent you from making mistakes they once did
+* They provide clarity and maintain accountability.
+* They help you set Specific Measurable Attainable Realistic Timely (SMART) goals.
+* They help you sharpen your skills.
+* They offer you guidance and insight from experience to prevent you from making mistakes they once did.
