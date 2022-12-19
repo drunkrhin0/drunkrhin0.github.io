@@ -45,7 +45,7 @@ You've dived in and still not sure how to begin? [@carlospolopm (HackTricks)](ht
 
 This is one of my favourite sites and deserves a bookmark for sure!
 
-[https://book.hacktricks.xyz/pentesting/pentesting-web/graphql]([https://book.hacktricks.xyz/pentesting/pentesting-web/graphql)
+[https://book.hacktricks.xyz/pentesting/pentesting-web/graphql](https://book.hacktricks.xyz/pentesting/pentesting-web/graphql)
 
 # 7. GraphQL Voyager
 
