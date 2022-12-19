@@ -35,11 +35,6 @@ github:
 twitter:
   username: drunkrhin0           # change to your twitter username
 
-# Mastodon - add
-mastodon:
-  username: drunkrhin0
-  instance: infosec.exchange
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer

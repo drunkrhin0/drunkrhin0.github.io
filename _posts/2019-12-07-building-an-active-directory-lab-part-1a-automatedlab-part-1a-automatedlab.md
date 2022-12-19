@@ -6,7 +6,7 @@ tags: [windows, active directory, virtualisation, powershell, automatedlab, hype
 toc: true
 ---
 
-📝 **This blog post was originally published on:** [Medium](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)\|[LinkedIn](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)
+📝 **This blog post was originally published on:** [Medium](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be)
 
 ---
 
