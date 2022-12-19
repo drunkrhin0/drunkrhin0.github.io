@@ -1,8 +1,8 @@
 ---
 title: Cybersecurity and Tech Content I Discovered in 2020
 date: 2020-12-31 +0800
-categories: [twitter-thread, resource-sharing]
-tags: [twitter-thread, content, resource-sharing]
+categories: [Resources]
+tags: [twitter-thread, content, resources]
 toc: true
 ---
 

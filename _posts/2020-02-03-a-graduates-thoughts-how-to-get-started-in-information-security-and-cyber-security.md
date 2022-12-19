@@ -1,8 +1,8 @@
 ---
 title: A Graduate’s Thoughts - How to Get Started in Information Security and Cyber Security
 date: 2020-02-03 +0800
-categories: [Blog, career]
-tags: [blog, career]
+categories: [Career]
+tags: [blog, career, cyber security, information security, graduate]
 toc: true
 ---
 
@@ -77,7 +77,7 @@ The dumbest person in the room often seeks the most discomfort. Humans dislike s
 
 <center>
 
-[![Tweet describing there is no perfect strategy](/assets/img/icd-don't-assume-anything.png)](https://twitter.com/wan0net/status/1220885332779925506?s=20&t=z5FT8coUM5Yyquj9ctajTA)
+[![Tweet stating - don't assume anything](/assets/img/2020-02-03/icd-don't-assume-anything.png)](https://twitter.com/wan0net/status/1220885332779925506?s=20&t=z5FT8coUM5Yyquj9ctajTA)
 
 </center>
 
@@ -100,7 +100,7 @@ In the past, it was hard to come by information regarding infosec. Information w
 
 <center>
 
-[![Tweet describing there is no perfect strategy](/assets/img/mhackling-no-barriers.png)](https://twitter.com/mhackling/status/1220968167666663425?s=20&t=lseyvSteJ21Fx67KxEWUxA)
+[![Tweet describing there are no barriers](/assets/img/2020-02-03/mhackling-no-barriers.png)](https://twitter.com/mhackling/status/1220968167666663425?s=20&t=lseyvSteJ21Fx67KxEWUxA)
 
 </center>
 
@@ -152,7 +152,7 @@ Frankly, I had no idea what I was doing. All I knew is this was what everyone di
 
 You’re probably saying in your head right now “Well how do I get started?”
 
-1. Go to conferences and meetups. If you’re in the APAC region you can check out [APAC Meetups](https://github.com/Infosec-Community/APAC-Conferences).
+1. Go to conferences and meetups. If you’re in the APAC region you can check out [APAC Conferences](https://github.com/Infosec-Community/APAC-Conferences).
 2. Make a Twitter and LinkedIn account and actively engage with the community.
 
 You’ve met all these fantastic people at meetups/conferences. You got along with a few people who share mutual interests. Don’t lose that connection!
@@ -165,7 +165,7 @@ Social media is a great way to be informed of current events, find new tools and
 
 <center> 
 
-[![Tweet: Make Friends!](/assets/img/sajeeb-make-friends.png)](https://twitter.com/sml555_/status/1221730783997526017?s=20&t=zPkrxEQZAhSIznbrEYblEA)
+[![Tweet: Make Friends!](/assets/img/2020-02-03/sajeeb-make-friends.png)](https://twitter.com/sml555_/status/1221730783997526017?s=20&t=zPkrxEQZAhSIznbrEYblEA)
 
 </center>
 <br>

@@ -35,6 +35,11 @@ github:
 twitter:
   username: drunkrhin0           # change to your twitter username
 
+# Mastodon - add
+mastodon:
+  username: drunkrhin0
+  instance: infosec.exchange
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -52,7 +57,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-7Z5VH8J030   # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine

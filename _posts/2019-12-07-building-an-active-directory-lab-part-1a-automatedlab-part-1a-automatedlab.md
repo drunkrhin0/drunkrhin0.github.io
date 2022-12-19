@@ -1,7 +1,7 @@
 ---
 title: Building an Active Directory Lab — Part 1A - AutomatedLab
 date: 2019-12-07 +0800
-categories: [Blog, Active Directory]
+categories: [Active Directory]
 tags: [windows, active directory, virtualisation, powershell, automatedlab, hyper-v, homelab, microsoft]
 toc: true
 ---
@@ -30,7 +30,7 @@ The full list of requirements can be found on their [website](https://automatedl
 -   Basic understanding of Windows Environments
 -   Basic understanding of Hyper-V
 
-# Preperation
+# Preparation
 
 ## Download ISOs
 
