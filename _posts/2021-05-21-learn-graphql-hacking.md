@@ -37,7 +37,7 @@ The GraphQL documentation is super well written (I'm sure this comes as a shock)
 
 Aidan provides a great summary of the 5 most common GraphQL security vulnerabilities.
 
-[https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/]([https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities)
+[https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities/](https://carvesystems.com/news/the-5-most-common-graphql-security-vulnerabilities)
 
 # 6. HackTricks
 
