@@ -61,11 +61,6 @@ Dan puts it best: "20 hours of reading and analysis condensed into a 10-minute s
 
 I hope you found this helpful!
 
-I've posted this on the following platforms for your convenience:
-* Twitter thread:
-* Mastodon toot:
-* Medium: https://medium.com/heck-the-packet/information-security-newsletters-to-follow-7e2036d6d8f0
-
-While you're there I cross-post content there:
+If you'd like to see more content I cross-post to Twitter and Mastodon
 ![Twitter](https://img.shields.io/twitter/follow/drunkrhin0?style=social){: .normal }
 ![Mastodon - Infosec Exchange](https://img.shields.io/mastodon/follow/109299352016876860?domain=https%3A%2F%2Finfosec.exchange&style=social){: .normal }
