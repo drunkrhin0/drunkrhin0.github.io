@@ -52,7 +52,7 @@ You don’t need a rack server at home with 2TB of RAM, or the perfect laptop, o
 
 <center>
 
-[![Tweet describing there is no perfect strategy](/assets/img/2020-02-03/faith-perfect-strategy.png)](https://twitter.com/farazsth98/status/1220902766983299072?s=20&t=AhIPJWN465x6rU_JTP7Q0g)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The other side of this is to learn through example as much as possible. Take a look at all the resources available on the topic you want to learn about, read/watch them and try to understand them. If possible, repeat their steps yourself. There is always something new to learn.</p>&mdash; Faith (@farazsth98) <a href="https://twitter.com/farazsth98/status/1220902766983299072?ref_src=twsrc%5Etfw">January 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </center>
 
@@ -75,7 +75,7 @@ The dumbest person in the room often seeks the most discomfort. Humans dislike s
 
 <center>
 
-[![Tweet stating - don't assume anything](/assets/img/2020-02-03/icd-don't-assume-anything.png)](https://twitter.com/wan0net/status/1220885332779925506?s=20&t=z5FT8coUM5Yyquj9ctajTA)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Don&#39;t assume anything, question everything.</p>&mdash; icd (@wan0net) <a href="https://twitter.com/wan0net/status/1220885332779925506?ref_src=twsrc%5Etfw">January 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 </center>
 
@@ -98,14 +98,14 @@ In the past, it was hard to come by information regarding infosec. Information w
 
 <center>
 
-[![Tweet describing there are no barriers](/assets/img/2020-02-03/mhackling-no-barriers.png)](https://twitter.com/mhackling/status/1220968167666663425?s=20&t=lseyvSteJ21Fx67KxEWUxA)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">There are no barriers to information or infrastructure any more. Security is a wide profession. Focus on something and learn everything about it and always be humble and willing to be taught more.</p>&mdash; Matthew Hackling (@mhackling) <a href="https://twitter.com/mhackling/status/1220968167666663425?ref_src=twsrc%5Etfw">January 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 </center>
 
 Listed below are a few of my favourite content creators/courses:
 
 * [PentesterLab](https://pentesterlab.com/) (PentesterLab also publishes some great articles regularly)
-* [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy/) ~~(His Udemy course is fantastic)~~ (Now [TCM Security](https://tcm-sec.com/))
+* [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy/) [TCM Security](https://tcm-sec.com/))
 * [HackerSploit](https://www.youtube.com/@HackerSploit/)
 
 This list is not comprehensive whatsoever. I’ll create a separate list later for those interested.
@@ -163,13 +163,13 @@ Social media is a great way to be informed of current events, find new tools and
 
 <center> 
 
-[![Tweet: Make Friends!](/assets/img/2020-02-03/sajeeb-make-friends.png)](https://twitter.com/sml555_/status/1221730783997526017?s=20&t=zPkrxEQZAhSIznbrEYblEA)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Make friends! Take people out for coffees where possible and don&#39;t underestimate extra-curricular activities. They show passion, which goes a long way!</p>&mdash; Sajeeb Lohani (sml555) (@sml555_) <a href="https://twitter.com/sml555_/status/1221730783997526017?ref_src=twsrc%5Etfw">January 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 </center>
 <br>
 <center>
 
-[![Tweet: Good jobs](/assets/img/2020-02-03/l0ss-good-jobs.png)](https://twitter.com/mikeloss/status/1220969816598568960?s=20&t=OhS035J7Thc_DCjFNjOfOA)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The good jobs don’t get advertised unless employers are really really desperate. That means you need to talk to humans to know about them or for them to know about you.</p>&mdash; l0ss (@mikeloss) <a href="https://twitter.com/mikeloss/status/1220969816598568960?ref_src=twsrc%5Etfw">January 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 </center>
 
